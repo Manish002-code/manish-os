@@ -6,7 +6,7 @@
 - Docker
 - REST API Design
 
-## Software Engineering
+## Computer science Foundations
 - Git
 - System Design
 - Data Structures & Algorithms
