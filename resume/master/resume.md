@@ -9,30 +9,45 @@ Software Engineer with nearly four years of experience supporting enterprise Saa
 ## Core Engineering Skills
 
 ### Backend Engineering
-- Python
-- FastAPI
-- REST APIs
+• Python
+• FastAPI (Learning & Projects)
+• REST APIs
+• API Design (Learning)
 
 ### Databases
-- SQL
-- PostgreSQL
-- Oracle SQL
+
+• SQL
+• Oracle SQL
+• PostgreSQL (Learning)
 
 ### Production Engineering
-- Production Troubleshooting
-- Root Cause Analysis
-- Performance Analysis
-- Incident Resolution
 
-### Automation
-- Python Automation
-- Workflow Optimization
-- ETL Processes
+• Production Troubleshooting
+• Root Cause Analysis
+• Incident Management
+• Performance Analysis
+• Log Analysis
+• Enterprise SaaS Support
 
-### Software Development
-- Agile Development
-- API Integration
-- Technical Documentation
+### Automation & Process Improvement
+
+• Python Automation
+• Workflow Optimization
+• Data Processing
+
+### Software Engineering Practices
+
+• API Integration
+• Agile Development
+• Cross-functional Collaboration
+• Technical Documentation
+
+### Engineering Practices
+
+• Debugging
+• Analytical Problem Solving
+• System Investigation
+• Defect Resolution
 
 ## Professional experience
 Career Transition & Professional Development
