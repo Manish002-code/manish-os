@@ -81,4 +81,4 @@ Python | FastAPI | SQL | PostgreSQL | Docker | Git | AWS | Azure | Power BI | Ta
 
 ---
 
-⭐ This repository is continuously evolving as I grow.
+⭐ This repository is continuously evolving as I grow
