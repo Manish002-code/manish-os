@@ -7,16 +7,32 @@ Python | SQL | Backend Engineering | Automation
 Software Engineer with nearly four years of experience supporting enterprise SaaS applications, automating workflows with Python and SQL, troubleshooting production issues, and collaborating with engineering teams to improve application reliability. Experienced in API integrations, data analysis, and cross-functional problem solving within Agile environments. Currently expanding expertise in backend development using FastAPI, PostgreSQL, Docker, and modern software engineering practices while building production-grade projects. Passionate about backend systems, performance optimization, and writing reliable software that solves real-world business problems.
 
 ## Core Engineering Skills
-> Backend Development (Python, FastAPI, REST APIs)
-> Production Support & Troubleshooting
-> SQL & Database Optimization
-> API Integration
-> Python Automation
-> Root Cause Analysis
-> Performance Analysis
-> Enterprise SaaS Applications
-> Agile Development
-> Technical Documentation
+
+### Backend Engineering
+- Python
+- FastAPI
+- REST APIs
+
+### Databases
+- SQL
+- PostgreSQL
+- Oracle SQL
+
+### Production Engineering
+- Production Troubleshooting
+- Root Cause Analysis
+- Performance Analysis
+- Incident Resolution
+
+### Automation
+- Python Automation
+- Workflow Optimization
+- ETL Processes
+
+### Software Development
+- Agile Development
+- API Integration
+- Technical Documentation
 
 ## Professional experience
 Career Transition & Professional Development
