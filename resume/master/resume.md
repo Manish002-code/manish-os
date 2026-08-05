@@ -54,7 +54,14 @@ Career Transition & Professional Development
 February 2025 – Present
 
 • Took planned time to support important family responsibilities.
+
 • Completed advanced training in Data Science and AI.
+
+• Built hands-on projects in Python and machine learning.
+
+• Expanded backend development skills with FastAPI and modern software engineering practices.
+
+• Preparing for Software Engineer roles with a focus on backend systems and scalable applications.
 
 
 Senior Product Analyst
@@ -74,6 +81,9 @@ July 2021 – February 2025
 • Documented root-cause analysis and communicated technical findings to internal stakeholders.
 
 • Supported enterprise customers across US and EMEA regions while maintaining high service quality.
-• Built hands-on projects in Python and machine learning.
-• Expanded backend development skills with FastAPI and modern software engineering practices.
-• Preparing for Software Engineer roles with a focus on backend systems and scalable applications.
+
+
+
+
+
+
