@@ -64,7 +64,7 @@ February 2025 – Present
 • Preparing for Software Engineer roles with a focus on backend systems and scalable applications.
 
 
-# Senior Product Analyst | Anthology
+ Senior Product Analyst | Anthology
 July 2021 – February 2025
 
 • Investigated and resolved production issues across enterprise SaaS applications by analyzing application behavior, logs, and database records.
