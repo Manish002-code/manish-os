@@ -64,19 +64,18 @@ February 2025 – Present
 • Preparing for Software Engineer roles with a focus on backend systems and scalable applications.
 
 
-Senior Product Analyst
-Anthology
+# Senior Product Analyst | Anthology
 July 2021 – February 2025
 
-• Investigated and resolved complex production issues across enterprise SaaS applications.
+• Investigated and resolved production issues across enterprise SaaS applications by analyzing application behavior, logs, and database records.
 
-• Performed SQL analysis to identify data inconsistencies and support customer-facing incidents.
+• Wrote and optimized SQL queries to investigate data inconsistencies, validate application behavior, and support customer-facing production incidents.
 
 • Collaborated with engineering teams to troubleshoot application defects and validate software fixes.
 
-• Worked closely with product managers and developers throughout issue investigation and feature validation.
+• Wrote and optimized SQL queries to investigate data inconsistencies, validate application behavior, and support customer-facing production incidents.
 
-• Automated repetitive operational tasks using Python, improving team efficiency.
+• Developed Python automation scripts to reduce repetitive operational tasks and improve team productivity.
 
 • Documented root-cause analysis and communicated technical findings to internal stakeholders.
 
