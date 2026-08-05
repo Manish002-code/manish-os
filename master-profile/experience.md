@@ -116,6 +116,22 @@ Responsibilities included:
 
 ## Technologies Used
 
+## Architecture Understanding
+
+(To be expanded)
+
+Topics:
+
+- Overall product architecture
+- Multi-tenant SaaS
+- Application flow
+- Database architecture
+- API communication
+- Authentication flow
+- Background jobs
+- Batch processes
+- Customer environments
+
 ## Production Support
 
 ## SQL Work
