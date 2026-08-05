@@ -73,7 +73,7 @@ July 2021 – February 2025
 
 • Collaborated with engineering teams to troubleshoot application defects and validate software fixes.
 
-• Wrote and optimized SQL queries to investigate data inconsistencies, validate application behavior, and support customer-facing production incidents.
+• Partnered with engineering and product teams throughout incident investigation, defect triage, and feature validation.
 
 • Developed Python automation scripts to reduce repetitive operational tasks and improve team productivity.
 
