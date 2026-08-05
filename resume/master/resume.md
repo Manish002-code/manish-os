@@ -55,6 +55,25 @@ February 2025 – Present
 
 • Took planned time to support important family responsibilities.
 • Completed advanced training in Data Science and AI.
+
+
+Senior Product Analyst
+Anthology
+July 2021 – February 2025
+
+• Investigated and resolved complex production issues across enterprise SaaS applications.
+
+• Performed SQL analysis to identify data inconsistencies and support customer-facing incidents.
+
+• Collaborated with engineering teams to troubleshoot application defects and validate software fixes.
+
+• Worked closely with product managers and developers throughout issue investigation and feature validation.
+
+• Automated repetitive operational tasks using Python, improving team efficiency.
+
+• Documented root-cause analysis and communicated technical findings to internal stakeholders.
+
+• Supported enterprise customers across US and EMEA regions while maintaining high service quality.
 • Built hands-on projects in Python and machine learning.
 • Expanded backend development skills with FastAPI and modern software engineering practices.
 • Preparing for Software Engineer roles with a focus on backend systems and scalable applications.
